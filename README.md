@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑Hi, I'm Raul a passionate software developer  and I really enjoy learning technologies.<br>🔭 I’m currently looking for internship<br>🌱 I’m currently learning JavaScript, Nodejs + Express, PHP, CSS3 + Bootstrap 5<br>💬 Contact me to know a bit more of me<br>
+🧑Hi, I'm Raul a passionate software developer  and I really enjoy learning technologies.<br>🔭 I’m currently looking for internship<br>🌱 I’m currently learning JavaScript, Jquery, Angular, Nodejs + Express, PHP, CSS3 + Bootstrap 5<br>💬 Contact me to know a bit more of me<br>
 
 
 ## 🌐 Socials:
