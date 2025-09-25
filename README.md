@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my final school project called OniList<br>Also, I'm doing my internship at Ubliz<br>🌱 I’m currently learning Angular + NGXS, React and GraphQL<br>💬 Contact me to know a bit more of me<br>⚡ Fun fact: I should stop drinking too much coffee ☕
+🔭 I’m currently working at Hospital Parc Taulí as a web developer<br>🌱 Also, I'm studying Multimedia degree at the UOC<br>💬 Contact me to know a bit more of me<br>⚡ Fun fact: I should stop drinking too much coffee ☕
 
 
 ## 🌐 Socials:
